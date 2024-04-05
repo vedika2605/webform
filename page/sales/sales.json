@@ -1,0 +1,24 @@
+{
+ "content": null,
+ "creation": "2024-04-02 12:31:38.821042",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "fa fa-filter",
+ "idx": 0,
+ "modified": "2024-04-02 12:33:35.650733",
+ "modified_by": "Administrator",
+ "module": "Pagetest",
+ "name": "sales",
+ "owner": "Administrator",
+ "page_name": "sales",
+ "roles": [
+  {
+   "role": "Sales Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Sales "
+}

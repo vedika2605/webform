@@ -1,0 +1,29 @@
+{
+ "attach_print": 0,
+ "channel": "Email",
+ "creation": "2024-04-03 16:29:04.127406",
+ "days_in_advance": 0,
+ "docstatus": 0,
+ "doctype": "Notification",
+ "document_type": "Candidate",
+ "enabled": 1,
+ "event": "New",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "Add your message here",
+ "modified": "2024-04-03 16:29:04.127406",
+ "modified_by": "Administrator",
+ "module": "Pagetest",
+ "name": "rtyuiopiu",
+ "owner": "Administrator",
+ "recipients": [
+  {
+   "receiver_by_document_field": "email"
+  }
+ ],
+ "send_system_notification": 1,
+ "send_to_all_assignees": 1,
+ "sender": "Vedika Dixit",
+ "sender_email": "vedika.cs2020@mpgi.edu.in",
+ "subject": "Job Apply Portal"
+}
